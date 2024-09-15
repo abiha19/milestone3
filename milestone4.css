@@ -1,0 +1,11 @@
+[contenteditable="true"] {
+    border: 1px solid #007bff;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: #f0f8ff;
+}
+
+[contenteditable="true"]:focus {
+    outline: none;
+    background-color: #e6f7ff;
+}
